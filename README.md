@@ -1,44 +1,37 @@
 # Hi there, I'm Freddy 👋
 
 I'm an aspiring Fullstack Web Developer with a passion for building modern and efficient web applications. I love working with both front-end and back-end technologies to create seamless user experiences.
+Here are the technologies I work with:
 
-## About Me
-
-I specialize in both front-end and back-end development. Here are the technologies I work with:
-
+# Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
+
+# Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+
+# Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![Command Line](https://img.shields.io/badge/-Command%20Line-000000?logo=windows-terminal&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+
 
 ## Current Learning
 
 I'm continuously expanding my skill set to stay updated with the latest trends in web development. Currently, I'm focusing on:
+- TypeScript
 - Advanced ReactJS patterns
 - Fullstack development with the MERN stack (MongoDB, Express.js, React, Node.js)
-- TypeScript
-
-## Collaboration Opportunities
-
-I'm open to collaborating on exciting web development projects, especially those involving:
-- Fullstack development with ReactJS and Node.js
-- Front-end development with modern JavaScript frameworks
-- Open-source contributions
 
 ## Contact Information
 
-Feel free to reach out to me through the following channels:
-- **Email:** [your-email@example.com]
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/deinprofil)
-- **Twitter:** [@deinbenutzername](https://twitter.com/deinbenutzername)
+Feel free to reach out to me:
+- **Email:** frederickpawelzik@gmail.com
