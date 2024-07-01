@@ -2,7 +2,7 @@
 
 I'm an aspiring Fullstack Web Developer with a passion for building modern and efficient web applications. I love working with both front-end and back-end technologies to create seamless user experiences.
 
-Here are the technologies I work with:
+### Here are the technologies I work with:
 
 ## Frontend
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
