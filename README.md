@@ -21,8 +21,10 @@ I'm an aspiring Fullstack Web Developer with a passion for building modern and e
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![Command Line](https://img.shields.io/badge/-Command%20Line-000000?logo=windows-terminal&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
 
 
 ## Current Learning
