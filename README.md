@@ -31,7 +31,7 @@ I'm an aspiring Fullstack Web Developer with a passion for building modern and e
 I'm continuously expanding my skill set to stay updated with the latest trends in web development. Currently, I'm focusing on:
 - TypeScript
 - Advanced ReactJS patterns
-- Fullstack development with the MERN stack (MongoDB, Express.js, React, Node.js)
+- Harvard CS50 
 
 ## Contact Information
 
