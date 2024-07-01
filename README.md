@@ -1,11 +1,12 @@
 # Hi there, I'm Freddy 👋
 
 I'm an aspiring Fullstack Web Developer with a passion for building modern and efficient web applications. I love working with both front-end and back-end technologies to create seamless user experiences.
+
 Here are the technologies I work with:
 
 ## Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
